@@ -1,7 +1,7 @@
 heroku-buildpack-graphicsmagick
 ===========================
 
-Use the latest version of GraphicsMagick (1.3.18) inside Heroku.
+Use the latest version of GraphicsMagick (1.3.21) inside Heroku.
 
 ## Usage
 
